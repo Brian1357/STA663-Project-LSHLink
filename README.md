@@ -21,7 +21,7 @@ Nancun Li: nancun.li@duke.edu
 
 [notebook_version_code](https://github.com/Brian1357/STA663-Project-LSHLink/tree/master/notebook_version_code): This folder contains the original code, numba version code and Cython version code. We recommend the Cython version code and we will go into details about this release.
 
-[numba_version_package](https://github.com/Brian1357/STA663-Project-LSHLink/tree/master/numba_version_package): This fold contains numba version package.
+[numba_version_package](https://github.com/Brian1357/STA663-Project-LSHLink/tree/master/numba_version_package): This fold contains numba version package, we recommend the Cython version package.
 
 
 
