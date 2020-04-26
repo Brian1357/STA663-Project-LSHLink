@@ -28,8 +28,7 @@ test.fit_data()
 test2.plot_dendrogram()
 ```
 
-![](C:\Users\nancu\OneDrive\03MQFE\2STA 663 Computational Statistics\STA663-Project-LSHLink\numba_version_package\figure\example.png)
-
+![avatar](https://github.com/Brian1357/STA663-Project-LSHLink/blob/master/numba_version_package/figure/example.png)
 
 
 ## important functions
