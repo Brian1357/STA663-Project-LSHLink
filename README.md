@@ -30,21 +30,38 @@ We recommend the Cython version code and we will go into details about this rele
 
 ## Install
 
-### Original Version Install method
+### Original Version
+
+#### Install method
 
 ```python
 pip3 install LSH_LINK
 ```
 
+#### import method
+
+```
+import LSH_LINK as lsh
+```
+
+
+
 ### Cython Version Install method
 
 
 
-### Numba Version Install method
+### Numba Version 
+
+#### Install method
+
 ```
 pip3 install LSHlink-ffghcv
 ```
 
+#### import method
 
+```
+import LSHlink as lsh
+```
 
 
