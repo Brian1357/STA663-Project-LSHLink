@@ -29,6 +29,7 @@ We recommend the Cython version code and we will go into details about this rele
 
 [report](https://github.com/Brian1357/STA663-Project-LSHLink/tree/master/report): This folder contains our final report.
 
+[test](https://github.com/Brian1357/STA663-Project-LSHLink/tree/master/test): This folder contanis our test files.
 
 
 ## Install
