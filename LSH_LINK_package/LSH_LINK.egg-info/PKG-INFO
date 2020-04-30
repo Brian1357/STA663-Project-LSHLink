@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: LSH-LINK
+Version: 0.1
+Summary: Base on Fast agglomerative hierarchical clustering algorithm using Locality-Sensitive Hashing,  we develop algorithm in Python.
+Home-page: https://github.com/Brian1357/STA663-Project-LSHLink
+Author: Boyang Pan & Nancun Li
+Author-email: nancun.li@duke.edu
+License: UNKNOWN
+Description: # LSHlink_numba_version
+        
+        Base on Fast agglomerative hierarchical clustering algorithm using Locality-Sensitive Hashing,  we develop algorithm in Python.
+        
+        
+        
+        ## install method
+        
+        ```
+        pip3 install LSHlink-ffghcv
+        ```
+        
+        
+        
+        ## example
+        
+        ```python
+        import LSHlink as LSH
+        import sklearn
+        import numpy as np
+        
+        X = [[i] for i in [2, 8, 0, 4, 1, 9, 9, 0]]
+        X = np.array(X)
+        test = LSH.HASH_FUNS(X)
+        test.set_parameters(4,10,2,11)
+        test.fit_data()
+        
+        test2.plot_dendrogram()
+        ```
+        
+        
+        
+        
+        ## important functions
+        
+        ```
+        set_parameters()
+        fit_data()
+        plot_raw_data()
+        plot_cluster()
+        plot_dendrogram()
+        ```
+        
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

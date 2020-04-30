@@ -30,7 +30,15 @@ We recommend the Cython version code and we will go into details about this rele
 
 ## Install
 
+### Original Version Install method
+
+```python
+pip3 install LSH_LINK
+```
+
 ### Cython Version Install method
+
+
 
 ### Numba Version Install method
 ```
