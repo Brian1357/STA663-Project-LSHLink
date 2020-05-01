@@ -9,6 +9,12 @@ This is a package that provides functions that implements LSH-link algorithm. Th
 ```
 python setup.py install
 ```
+Check if the installation is successful.
+
+```
+python testing.py
+```
+The output should be a dendrogram similar or identical to the graph above.
 
 ## example
 
