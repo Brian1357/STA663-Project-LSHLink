@@ -50,8 +50,12 @@ import LSH_LINK as lsh
 
 
 
-### Cython Version Install method
+### Cython Version 
+#### Install method
+We had difficulty uploading the Cython Version to PYPI.
 
+Please go to notebook_code -> LSHlink-Cython.ipynb, or
+Download Cython_version_package -> go to "terminal" -> ```python setup.py install``` to install the package and import by ```import LSHlink_Cython as lsh```
 
 
 ### Numba Version 
