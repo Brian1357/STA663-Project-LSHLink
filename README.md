@@ -27,7 +27,7 @@ We recommend the Cython version code and we will go into details about this rele
 [numba_version_package](https://github.com/Brian1357/STA663-Project-LSHLink/tree/master/numba_version_package): This folder contains numba version package, we recommend the Cython version package.
 
 
-[numba_version_package](https://github.com/Brian1357/STA663-Project-LSHLink/tree/master/Cython_version_package): This folder contains Cython version package.
+[Cython_version_package](https://github.com/Brian1357/STA663-Project-LSHLink/tree/master/Cython_version_package): This folder contains Cython version package.
 
 [report](https://github.com/Brian1357/STA663-Project-LSHLink/tree/master/report): This folder contains our final report.
 
